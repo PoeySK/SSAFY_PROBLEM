@@ -3,7 +3,7 @@ package ssafy.problem.difficult.five;
 import java.io.*;
 import java.util.*;
 
-public class BestLoad {
+public class BestRoad {
     static int N, result;
     static ArrayList<Node> co;
     static boolean[] isCheck;
