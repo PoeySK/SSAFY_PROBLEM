@@ -1,4 +1,4 @@
-package ssafy.problem.pre.middle;
+package com.ssafy.problem.pre.middle;
 
 import java.util.Scanner;
 

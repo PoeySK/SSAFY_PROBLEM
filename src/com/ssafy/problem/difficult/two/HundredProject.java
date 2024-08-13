@@ -1,4 +1,4 @@
-package ssafy.problem.difficult.two;
+package com.ssafy.problem.difficult.two;
 
 import java.io.*;
 import java.util.*;
